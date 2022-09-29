@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="arr_nama">
+        <item>Desta Rahman Theja</item>
+        <item>Desti Rahman Theja</item>
+        <item>Dyansyah Rahman Theja</item>
+        <item>Jonathan Chen</item>
+    </string-array>
 </resources>
